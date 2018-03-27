@@ -1,7 +1,7 @@
 Project Overview
 -------------------
 
-This is my first Kaggle experience, I have learned a lot during this competition. The submissions are evaluated on the mean column-wise ROC AUC. Our team achieved a private score of 0.9857, ranking top 26% among the 4551 teams worldwide on leaderboard. This is a really tough competition, as admitted by most teams, including many Kaggle Masters.
+This is my first Kaggle experience, I have learned a lot during this competition. The submissions are evaluated on the mean column-wise ROC AUC. Our team achieved a private score of 0.9857, ranking top 25% among the 4551 teams worldwide on leaderboard. This is a really tough competition, as admitted by most teams, including many Kaggle Masters.
 
 ## Kaggle Link
 
@@ -88,7 +88,7 @@ The major models used include Logistic Regression, lightGBM, bidirectional gru w
 
 ## Model Evaluation
 
-Submissions are evaluated on the mean column-wise ROC AUC. In other words, the score is the average of the individual AUCs of each predicted column. In the end, my team achieved a score of 0.9857, ranking top 26% on the private leaderboard.
+Submissions are evaluated on the mean column-wise ROC AUC. In other words, the score is the average of the individual AUCs of each predicted column. In the end, my team achieved a score of 0.9857, ranking top 25% on the private leaderboard.
 
 ## Lessons
 
