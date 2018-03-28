@@ -1,7 +1,7 @@
 Project Overview
 -------------------
 
-This is my first Kaggle experience, I have learned a lot during this competition. The submissions are evaluated on the mean column-wise ROC AUC. Our team achieved a private score of 0.9857, ranking top 25% among the 4551 teams worldwide on leaderboard. This is a really tough competition, as admitted by most teams, including many Kaggle Masters.
+This is my first Kaggle experience, I have learned a lot during this competition. The submissions are evaluated on the mean column-wise ROC AUC. Our team achieved a private score of 0.9857, ranking top 25% among the 4551 teams worldwide on the private leaderboard. This is a really tough competition, as admitted by most teams, including many Kaggle Masters.
 
 ## Kaggle Link
 
